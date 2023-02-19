@@ -8,7 +8,7 @@
 /* betty style doc for function main goes there */
 int main(void){
 	int n,lastd;
-	srand(timr(0));
+	srand(time(0));
 	n=rand()-RAND_MAX/2;
 	lastd = n % 10;
 
@@ -20,7 +20,7 @@ int main(void){
 	{
 		printf("Last digit of %d is %d and is greater is 0\n",n,lastd);
 	}
-	else if(lastd < 6 && != 0)
+	else if(lastd < 6 && n != 0)
 	{
 		printf("Last digit of %d is %d and is less than 6 and not 0\n",n,lastd);
 	}
