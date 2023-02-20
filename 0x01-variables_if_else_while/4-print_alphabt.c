@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main . main block
+ * main - main block
  * Description:get a random number and check it
  * Return: 0
  */
