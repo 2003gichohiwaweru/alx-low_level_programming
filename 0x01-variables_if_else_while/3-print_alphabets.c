@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main main block
+ * main - main block
  * Descriptions: print the alphabet in lower cases
  * and the uppercase, follow by a new line
  * Return: o
