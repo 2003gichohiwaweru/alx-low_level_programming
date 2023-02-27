@@ -4,7 +4,7 @@
  * Reset_to_98 - Takes a pointer to an int
  * updates the value it points to to 98
  *
- * @n: An interger input pointer
+ * @n: An integer input pointer
  *
  * Return : nothing
  */
